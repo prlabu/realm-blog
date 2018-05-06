@@ -1,0 +1,24 @@
+{
+  "name": "realm-blog",
+  "version": "0.1.0",
+  "description": "blog test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prlabu/realm-blog.git"
+  },
+  "author": "latanebullock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prlabu/realm-blog/issues"
+  },
+  "homepage": "https://github.com/prlabu/realm-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jade": "^1.11.0"
+  }
+}
